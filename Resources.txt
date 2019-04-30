@@ -1,0 +1,3 @@
+﻿https://developer.okta.com/blog/2019/04/03/build-a-crud-app-with-aspnet-22-and-entity-framework
+
+Need Microsoft.EntityFrameworkCore.SQLite
